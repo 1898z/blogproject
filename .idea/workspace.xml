@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="24ce73ee-1667-4885-8457-824d0a5f2cb5" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1ec6YLMdNabsHQkTvXkRBbZkxdX" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/blog/templatetags " />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="F:\Graduatestudy\graduate0\pythonstudy\work\blogproject\blog\templatetags " />
+      <recent name="F:\Graduatestudy\graduate0\pythonstudy\work\blogproject\templates\blog" />
+      <recent name="F:\Graduatestudy\graduate0\pythonstudy\work\blogproject\blog\static\blog" />
+    </key>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="888" y="221" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1594869247058">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="888" y="221" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1536.824@0.0.1536.824" timestamp="1594869247058" />
+    <state x="822" y="170" key="FileChooserDialogImpl" timestamp="1594613486720">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="822" y="170" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1594613486720" />
+    <state x="229" y="24" key="SettingsEditor" timestamp="1594731917674">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="229" y="24" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1594731917674" />
+    <state x="814" y="145" width="672" height="678" key="search.everywhere.popup" timestamp="1594651286485">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="814" y="145" width="672" height="678" key="search.everywhere.popup/0.0.1536.824@0.0.1536.824" timestamp="1594651286485" />
+  </component>
+</project>
