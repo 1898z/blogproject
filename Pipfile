@@ -7,7 +7,7 @@ verify_ssl = true
 
 [packages]
 markdown = {index = "https://pypi.tuna.tsinghua.edu.cn/simple", version = "*"}
-django = "==2.2.3"
+django = "==2.2.28"
 gunicorn = "*"
 
 [requires]
